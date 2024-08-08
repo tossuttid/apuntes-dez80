@@ -16,7 +16,3 @@ El hexadecimal es
 
 * mucho más práctico y sencillo que el binario
 * tiene una correspondencia directa
-
-'''
-
-[Video de la Clase]
