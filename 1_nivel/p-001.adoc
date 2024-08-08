@@ -1,0 +1,22 @@
+== https://www.youtube.com/watch?v=GYwPDZaoAf4[P001]: Introducción al nivel 1
+
+En el nivel 1, los retos va a que dibujaremos sprites
+
+'''
+
+Aprenderemos:
+
+* Lenguaje máquina, binario y hexadecimal.
+* Funcionamiento de la memoria y el procesador.
+* Manipular la memoria de vídeo para pintar píxeles y colores.
+
+'''
+
+El hexadecimal es
+
+* mucho más práctico y sencillo que el binario
+* tiene una correspondencia directa
+
+'''
+
+[Video de la Clase]
