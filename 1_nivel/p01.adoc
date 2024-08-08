@@ -1,4 +1,4 @@
-== https://www.youtube.com/watch?v=GYwPDZaoAf4[P001]: Introducción al nivel 1
+== https://www.youtube.com/watch?v=GYwPDZaoAf4[P01]: Introducción al nivel 1
 
 En el nivel 1, los retos va a que dibujaremos sprites
 
