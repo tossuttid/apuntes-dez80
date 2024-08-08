@@ -1,4 +1,4 @@
-== P002: Instalación de CPCTELERA y RVM
+== P02: Instalación de CPCTELERA y RVM
 
 Es un re tema, lo tengo sobre WSL y uso RVM como emulador.
 
