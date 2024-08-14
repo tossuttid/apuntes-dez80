@@ -1,5 +1,0 @@
-== P02: Instalación de CPCTELERA y RVM
-
-Es un re tema, lo tengo sobre WSL y uso RVM como emulador.
-
-Tengo un https://gist.github.com/tossuttid/89314188eb308e248e5ef83b9dfb5691[gist] que lo explica más en detalle.
